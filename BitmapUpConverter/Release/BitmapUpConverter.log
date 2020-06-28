@@ -1,0 +1,17 @@
+﻿2014/07/08 9:48:47 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\konno_y\Documents\Visual Studio 2012\Projects\BitmapUpConverter\BitmapUpConverter\BitmapUpConverter.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D ZLIB_WINAPI /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt image_up_converter.cpp main.cpp
+         image_up_converter.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\konno_y\Documents\Visual Studio 2012\Projects\BitmapUpConverter\Release\BitmapUpConverter.exe" /INCREMENTAL:NO /NOLOGO libpng16.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\konno_y\Documents\Visual Studio 2012\Projects\BitmapUpConverter\Release\BitmapUpConverter.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\konno_y\Documents\Visual Studio 2012\Projects\BitmapUpConverter\Release\BitmapUpConverter.lib" /MACHINE:X86 /SAFESEH:NO Release\main.obj
+         Release\image_up_converter.obj
+         コード生成しています。
+         コード生成が終了しました。
+         BitmapUpConverter.vcxproj -> C:\Users\konno_y\Documents\Visual Studio 2012\Projects\BitmapUpConverter\Release\BitmapUpConverter.exe
+     1>プロジェクト "C:\Users\konno_y\Documents\Visual Studio 2012\Projects\BitmapUpConverter\BitmapUpConverter\BitmapUpConverter.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.97
